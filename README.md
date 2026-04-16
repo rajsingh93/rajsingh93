@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on: Room Finder App (Realtime + Scalable)<br>👯 Open to: Collaboration on backend & SaaS projects<br>🤝 Need help with: System design & scaling<br>🌱 Learning: Distributed systems & performance optimization<br> 💬 Ask me: Node.js | Fastify | Supabase | APIs<br>-⚡ Fun fact: I build more than I sleep 😅
+🔭 Working on: A startup idea (Realtime + Scalable)<br>👯 Open to: Collaboration on backend & SaaS projects<br>🤝 Need help with: System design & scaling<br>🌱 Learning: Distributed systems & performance optimization<br> 💬 Ask me: Node.js | Fastify | Supabase | APIs<br>-⚡ Fun fact: I build more than I sleep 😅
 
 
 ## 🌐 Socials:
